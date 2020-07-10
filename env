@@ -1,0 +1,4 @@
+DB_HOST=cluster0-4bten.mongodb.net
+DB_USER=user
+DB_PASSWORD=motDePasse
+DB_NAME=test
