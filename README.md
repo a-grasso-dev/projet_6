@@ -6,8 +6,6 @@ cd projet_6
 npm i
 ```
 
-Copier le fichier env dans le répertoire du projet
-
 # Démarrage
 
 ```
