@@ -9,5 +9,5 @@ npm i
 # Démarrage
 
 ```
-node server.js
+node server
 ```
